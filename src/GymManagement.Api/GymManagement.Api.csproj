@@ -12,6 +12,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\gymManagement.contracts\GymManagement.Contracts.csproj" />
+    <ProjectReference Include="..\gymManagement.Application\GymManagement.Application.csproj" />
+    <ProjectReference Include="..\gymManagement.Infrastructure\GymManagement.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
