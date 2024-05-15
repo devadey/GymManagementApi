@@ -10,4 +10,8 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\gymManagement.contracts\GymManagement.Contracts.csproj" />
+  </ItemGroup>
+
 </Project>
